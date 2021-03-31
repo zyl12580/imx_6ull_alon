@@ -1,0 +1,3 @@
+test:main.c sub.c
+	gcc -o test main.c sub.c
+
