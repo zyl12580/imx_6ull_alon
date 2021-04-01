@@ -1,6 +1,7 @@
 /*
-Complile: gcc -o hello hello.c
-Execute: ./hello Alon
+ *Data : 2021-04-01
+ *Complile command: gcc -o hello hello.c
+ *How to execute: ./hello Alon
 */
 
 #include <stdio.h>
